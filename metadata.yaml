@@ -1,0 +1,35 @@
+_repo: The-Mouse-s-Wedding_27456
+_version: 0.1.0
+alternative_title: Nezumi no yomeiri. English
+contributor:
+  unknown_contributor:
+    agent_name: Thompson, David
+    birthdate: 1835
+    gutenberg_agent_id: '28345'
+    url: http://www.gutenberg.org/2009/agents/28345
+covers:
+- cover_type: archival
+  image_path: 27456-h/images/cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2008-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weddings -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, Japanese'
+- !lcsh 'Mice -- Juvenile fiction'
+- !lcsh 'Fairy tales -- Japan'
+title: The Mouse's Wedding
+url: http://www.gutenberg.org/ebooks/27456
